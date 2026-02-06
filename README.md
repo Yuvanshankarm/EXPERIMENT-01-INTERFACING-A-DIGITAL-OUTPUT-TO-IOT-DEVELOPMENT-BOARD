@@ -35,7 +35,6 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
    
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
 
-
 2. Click on FILE, click on new stm 32 project
    
 ![image](https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png)
@@ -53,13 +52,11 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
    
 ![Screenshot 2025-03-11 134528](https://github.com/user-attachments/assets/df427edd-e24a-4612-a858-aeae859b379f)
 
-
 6. Select the appropriate pins as GPIO, in or out, USART or required options and configure
    
 ![Screenshot 2025-03-11 134617](https://github.com/user-attachments/assets/125ee548-30b1-4c88-932f-adf07984522f)
 
 ![Screenshot 2025-03-11 134642](https://github.com/user-attachments/assets/0adfbb58-4cad-408a-9300-f4808b53cac4)
-
 
 7. Click on Ctrl+S, automatically C program will be generated
    
@@ -68,7 +65,6 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 8. Edit the program and as per required 
 
 ![image](https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png)
-
 
 9. Use project and build all 
 
